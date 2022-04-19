@@ -1,0 +1,23 @@
+.key__container{
+    background-color: rgba(0, 0, 0, 0.692);
+    color: #ffffff;
+    margin: 2px;
+    width:60px;
+    aspect-ratio: 1/1;
+    min-width: 2rem;
+    min-height: 1.8rem;
+    font-weight: 800;
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.found{
+    background-color: green;
+}
+.present{
+    background-color: orange;
+}
+.notFound{
+    background-color: gray;
+}

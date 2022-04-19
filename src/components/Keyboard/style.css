@@ -1,0 +1,39 @@
+.keyboard__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.keyboard__container{
+    margin-top: 20px;
+}
+.keyboard__row {
+  width: max-content;
+  margin: auto;
+}
+.keyboard__key__container{
+    background-color: rgba(0, 0, 0, 0.692);
+    color: #ffffff;
+    padding: 15px;
+    margin: 2px;
+    border-radius: 4px;
+    min-width: 2rem;
+    min-height: 1.8rem;
+    font-weight: 600;
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.keyboard__key__container:hover{
+   opacity: 0.8;
+}
+.found{
+    background-color: green;
+}
+.present{
+    background-color: orange;
+}
+.notFound{
+    background-color: gray;
+}
