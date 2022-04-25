@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 const AppContext = createContext();
 
 function App() {
-  let word = "Navin".toUpperCase();
+  let word = "titan".toUpperCase();
   const [board, setBoard] = useState([
     [{ value: "" }, { value: "" }, { value: "" }, { value: "" }, { value: "" }],
     [{ value: "" }, { value: "" }, { value: "" }, { value: "" }, { value: "" }],
