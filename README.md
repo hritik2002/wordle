@@ -5,7 +5,7 @@
 
 > Hosted it over heroku.
 
-<img src = "https://www.theguardian.com/games/2021/dec/23/what-is-wordle-the-new-viral-word-game-delighting-the-internet" />
+![Screenshot from 2022-08-22 02-15-44](https://user-images.githubusercontent.com/72138429/185810308-10e3867b-12ef-425b-a896-5f09befa0126.png)
 
 > Have a glimpse over the hosted site: https://wordle-hritik.herokuapp.com/
 
